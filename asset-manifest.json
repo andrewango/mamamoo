@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mamamoo/static/css/main.073c9b0a.css",
+    "main.js": "/mamamoo/static/js/main.183efc3c.js",
+    "static/js/787.956007d0.chunk.js": "/mamamoo/static/js/787.956007d0.chunk.js",
+    "static/media/logo.svg": "/mamamoo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mamamoo/index.html",
+    "main.073c9b0a.css.map": "/mamamoo/static/css/main.073c9b0a.css.map",
+    "main.183efc3c.js.map": "/mamamoo/static/js/main.183efc3c.js.map",
+    "787.956007d0.chunk.js.map": "/mamamoo/static/js/787.956007d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.183efc3c.js"
+  ]
+}
